@@ -1,0 +1,18 @@
+#pointsDiv {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+#clickDiv {
+    border: 3px solid black;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 250px;
+}
+
+#clickText {
+    margin-top: 25%;
+}

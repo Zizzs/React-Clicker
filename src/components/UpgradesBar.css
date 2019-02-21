@@ -1,0 +1,10 @@
+#gridDiv {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    border: 1px solid black;
+    width: 125px;
+}
+
+.upgradeButton {
+    margin-top: 25px;
+}
